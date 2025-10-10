@@ -1,6 +1,9 @@
 # 📊 Study Dashboard (@blakusnaku)
-
 > Tracking the journey from Excel foundations to full BI integration — SQL → Python → Power BI
+
+---
+
+![blakusnaku_dashboard_v1_1](assets/blakusnaku_study_dashboard_v1_1.png)
 
 ---
 
