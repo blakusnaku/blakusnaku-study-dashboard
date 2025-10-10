@@ -3,6 +3,12 @@
 
 ---
 
+## 🌐 Live View
+> View the live dashboard here (Google Sheets version):  
+👉 [Live Dashboard Link](https://docs.google.com/spreadsheets/d/1TLP4skR9L8p8keZBImYdIXdy1Gyl0mBcUqyHPyfwIXE/edit?usp=sharing)
+
+---
+
 ![blakusnaku_dashboard_v1_1](assets/blakusnaku_study_dashboard_v1_1.png)
 
 ---
