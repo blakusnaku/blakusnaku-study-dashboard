@@ -16,7 +16,7 @@
 ## 🔍 Underlying Projects
 
 This dashboard is built from incremental learning projects — see the full pipeline and day-by-day build here:  
-[SQL → BI Journey](https://github.com/blakusnaku/blakusnaku-sql-to-bi-journey)
+[100 Days of Data](https://github.com/blakusnaku/blakusnaku-100-days-of-data)
 
 ---
 
