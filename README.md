@@ -59,6 +59,23 @@ This dashboard is built from incremental learning projects — see the full pipe
   *🧩 “Day 13 – SQL to Power BI Sales Dashboard”*  
 - Merged SQL, Python, and Power BI workflows — foundation for the “Pipeline Flow” phase.  
 
+📅 **October 11, 2025** - Version 1.2**
+🎨 **Theme:** Integration & Versioned Baseline  
+
+Version 1.2 marks the **official baseline release** of the Study Dashboard — a refined, fully-structured version that merges design, functionality, and integration clarity across the entire data learning pipeline.
+
+### 🔧 Key Updates
+- Established **v1.2 as the official baseline** for all future versions and dashboard references.  
+- Integrated a new **web scraping module** within the 100-day learning plan to expand data handling coverage.  
+- Finalized the **visual hierarchy** (title 20 pt, KPI 36 pt) and standardized **hex color palette** for uniform styling.  
+- Improved the **Phase Progress Overview** layout and enhanced KPI readability across dashboard sections.  
+- Added a **version tag footer**: `blakusnaku_study_dashboard v1.2` on the lower-right corner for visual version tracking.  
+- Aligned **Power BI design conventions** with Excel baselines for consistency across tools.  
+
+### 🧠 Focus
+This version represents the **integration stage** of your data learning journey — connecting the earlier Excel foundations with SQL, Python, and Power BI workflows into a unified, trackable system.  
+It serves as the *anchor point* for subsequent versions (v1.3 → v2.0), ensuring all future updates build upon a standardized and measurable baseline.
+
 ---
 
 ### **📈 Current Stats (as of October 10, 2025)**
@@ -70,15 +87,7 @@ This dashboard is built from incremental learning projects — see the full pipe
 | Excel Stage | ✅ 100% |
 | Pipeline Flow | 🚀 7% |
 | BI Mastery / Freelance Prep | 🔜 Upcoming |
-
----
-
-### **🧩 Next Focus (v1.2 Goals)**
-- Deepen Power BI skills: calculated columns, DAX, relationships.  
-- Enhance visual hierarchy and color consistency.  
-- Add changelog tracking **directly inside the dashboard**.  
-- Continue documenting daily progress through GitHub and LinkedIn reflections.
-
+ 
 ---
 
 **Version Tag:** `blakusnaku_study_dashboard v1.1`  
