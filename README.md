@@ -1,10 +1,11 @@
 # 📊 Study Dashboard (@blakusnaku)
-> Tracking the journey from Excel Foundations → SQL → Python → Power BI
+> Tracking the journey from Excel Foundations → SQL → Python → Power BI  
+> Building a measurable ecosystem for continuous data growth  
 
 ---
 
-## 🌐 Live View
-> Access the latest interactive version (Google Sheets):  
+## 🌐 Live Dashboard
+📍 **Interactive Version (Google Sheets):**  
 👉 [View Live Dashboard](https://docs.google.com/spreadsheets/d/1TLP4skR9L8p8keZBImYdIXdy1Gyl0mBcUqyHPyfwIXE/edit?usp=sharing)
 
 ---
@@ -14,103 +15,100 @@
 ---
 
 ## 🧭 Overview
-The **Study Dashboard** is a live analytics system built to visualize and monitor my data learning progress across 100 days.  
-It tracks daily blocks, tasks, completion rates, and phase performance — turning my learning into measurable insights.
+The **Study Dashboard** is a live analytics system documenting my 100-day journey in data analytics — from foundational learning to integrated pipelines.  
+It tracks progress across daily study blocks, task completion rates, and learning phases, turning growth into quantifiable insights.
 
-This dashboard connects the full learning pipeline:  
-📊 **Excel (Foundations)** → 🧩 **SQL (Data Retrieval)** → 🐍 **Python (Transformation)** → ⚙️ **Power BI (Visualization)**
+This project mirrors a real analytics pipeline:
+**Excel (Foundations)** → **SQL (Data Retrieval)** → **Python (Transformation)** → **Power BI (Visualization)**  
+
+Each component feeds into a measurable framework designed to reflect discipline, skill depth, and iterative improvement — a reflection of both data literacy and process design.
 
 ---
 
-## 🔁 Pipeline Flow
+## ⚙️ Pipeline Flow
 | Stage | Description |
 |--------|--------------|
-| **Data Source** | Daily study log from Google Sheets (`Tasks` tab). |
-| **Transformation** | Excel formulas + Power Query cleaning for consistency. |
-| **Integration** | SQL joins replicated in Python (pandas) for validation. |
-| **Visualization** | KPI dashboards in Power BI reflecting Excel and Python outputs. |
+| **Data Source** | Daily study tracker (Google Sheets) feeding raw progress logs. |
+| **Transformation** | Data cleaning & aggregation through Excel formulas and Power Query. |
+| **Integration** | SQL joins and pandas validations for data consistency. |
+| **Visualization** | Power BI dashboards combining metrics, charts, and design systems. |
 
 ---
 
 ## 🧮 Core Metrics
 | Metric | Description |
 |--------|--------------|
-| 🧩 **Total Tasks** | Total logged study activities across 100 days. |
-| 📈 **Completion %** | Overall completion rate (auto-updated). |
-| ⏱ **Total Hours** | Total study time accumulated. |
-| 📅 **Schedule Variance** | Difference between actual vs. target schedule. |
-| 🧮 **Phase Progress** | Visual progress by learning phase (Excel → SQL → Python → BI). |
+| 🧩 **Total Tasks** | Tracks all logged learning activities across 100 days. |
+| 📈 **Completion %** | Measures real-time study completion vs. plan. |
+| ⏱ **Total Hours** | Aggregates total focused learning time. |
+| 📅 **Schedule Variance** | Highlights whether I’m ahead or behind the plan. |
+| 🧮 **Phase Progress** | Shows percentage progress for each phase (Excel → SQL → Python → Power BI). |
 
 ---
 
-## 🧩 Underlying Projects
-This dashboard is powered by ongoing project data from my **100 Days of Data** series:  
-🔗 [Explore the full pipeline → blakusnaku-100-days-of-data](https://github.com/blakusnaku/blakusnaku-100-days-of-data)
+## 🔁 Underlying Projects
+This dashboard consolidates output from the **100 Days of Data** series — covering SQL querying, Python cleaning, and Power BI dashboard builds.
+
+🔗 [View Full Project Series → blakusnaku-100-days-of-data](https://github.com/blakusnaku/blakusnaku-100-days-of-data)
 
 ---
 
 ## 🗓️ Version History
 
-### **📅 October 6, 2025 – Initial Concept**
+### 📅 October 6, 2025 — Initial Concept  
 **Theme:** Foundation Planning  
-- Conceptualized a dashboard to track daily study blocks (Block 1–4).  
-- Selected **Excel** as the primary environment for early versions.  
-- Established a measurable **100-day learning goal**.  
+- Designed the concept for tracking study blocks and performance metrics.  
+- Selected **Excel** as the base tool for v1 development.  
+- Established the **100-day structured learning roadmap**.  
 
 ---
 
-### **📅 October 7, 2025 – Core Layout & Metrics**
+### 📅 October 7, 2025 — Core Layout & Metrics  
 **Theme:** Structure and Design  
-- Added KPI metrics: Total Tasks, Completion %, Total Hours, Schedule Variance.  
-- Created the **Daily Activity Tracker** and **16-week GitHub-style grid**.  
-- Added **social icons (GitHub, LinkedIn, X)** for branding.  
-- Finalized initial color hierarchy and structure.  
+- Built KPI metrics (Tasks, Completion %, Hours, Schedule Variance).  
+- Added **Daily Activity Tracker** and **16-week GitHub-style grid**.  
+- Implemented **social branding icons** for GitHub, LinkedIn, and X.  
+- Defined initial layout and color palette.  
 
 ---
 
-### **📅 October 8, 2025 – Version 1.0**
-**Theme:** Official Baseline  
-- Completed the first stable version: `blakusnaku_study_dashboard v1.0`.  
-- Added **Phase Progress Overview** and finalized header polish.  
-- Locked this as the **official starting baseline** for future builds.  
-> 📍 *Milestone: “Excel Foundations Complete”*
+### 📅 October 8, 2025 — Version 1.0  
+**Theme:** Baseline Foundation  
+- Completed the first stable release: `v1.0`.  
+- Added **Phase Progress Overview** and cleaned KPI alignment.  
+- Locked this version as the **foundation baseline**.  
+> _“Excel Foundations Complete — moving toward integration.”_  
 
 ---
 
-### **📅 October 10, 2025 – Version 1.1**
-**Theme:** Pipeline Flow + Power BI Focus  
-- Refined KPIs into **one-line metrics** for cleaner layout.  
+### 📅 October 10, 2025 — Version 1.1  
+**Theme:** Pipeline Integration  
+- Refined one-line KPIs for visual clarity.  
 - Added **Tool Usage Pie Chart** and **Phase Progress Overview**.  
+- Introduced **Power BI** to simulate real-world visualization workflows.  
+- Created the first cross-tool project: *Day 13 — SQL → Python → Power BI Sales Dashboard*.  
 - Updated version label → `v1.1`.  
-- Reorganized files into **daily folders** for GitHub readability.  
-- Shifted focus to **Power BI integration** after analyzing skill demand.  
-- Created the first cross-tool project:  
-  🧩 *“Day 13 – SQL → Python → Power BI Sales Dashboard”*  
-- Merged SQL, Python, and Power BI workflows — foundation for the “Pipeline Flow” phase.  
 
 ---
 
-### **📅 October 11, 2025 – Version 1.2**
-**Theme:** Integration & Versioned Baseline  
-Version 1.2 marks the **official baseline release** of the Study Dashboard — merging design, functionality, and integration clarity across the full learning pipeline.
+### 📅 October 11, 2025 — Version 1.2  
+**Theme:** Unified Data Ecosystem  
+Version 1.2 marks the **integration milestone** — where all components (Excel, SQL, Python, Power BI) align under a consistent framework.
 
 #### 🔧 Key Updates
-- Established **v1.2** as the new official baseline for future dashboards.  
-- Integrated a **web scraping module** into the 100-day plan for broader data handling.  
-- Finalized **visual hierarchy** (Title 20 pt, KPI 36 pt) and standardized hex palette.  
-- Enhanced **Phase Progress Overview** and improved KPI legibility.  
-- Added a **version tag footer:** `blakusnaku_study_dashboard v1.2`.  
-- Unified **Power BI design language** with Excel baselines.
+- Declared **v1.2** as the new stable baseline.  
+- Added **web scraping module** to expand data acquisition scope.  
+- Standardized typography and color hierarchy (Title 20 pt, KPI 36 pt).  
+- Integrated footer tag: `blakusnaku_study_dashboard v1.2`.  
+- Unified Power BI + Excel visual systems for future dashboards.
 
 #### 🧠 Focus
-This version represents the **integration stage** — linking Excel, SQL, Python, and Power BI into a single trackable ecosystem.  
-It serves as the **anchor point** for upcoming versions (v1.3 → v2.0), ensuring design and data consistency moving forward.
-
-> _“From structure to integration — v1.2 marks the start of a unified data ecosystem.”_
+This version anchors the transition from “learning individual tools” to “building a connected analytics system.”  
+> _“Version 1.2 represents the start of measurable integration.”_
 
 ---
 
-## 📈 Current Stats (as of October 10, 2025)
+## 📈 Current Stats (as of October 11, 2025)
 | Metric | Value |
 |--------|-------|
 | Tasks Completed | 60 / 400 |
@@ -118,22 +116,20 @@ It serves as the **anchor point** for upcoming versions (v1.3 → v2.0), ensurin
 | Schedule Variance | +2 days ahead |
 | Excel Stage | ✅ 100% |
 | Pipeline Flow | 🚀 15% |
-| Data Acquisition / Data Analysis / BI Mastery / Freelance Prep | 🔜 Upcoming |
+| Data Acquisition / BI Mastery / Freelance Prep | 🔜 Upcoming |
 
 ---
 
 ## 🧾 File Structure
+
 ```
 blakusnaku-study-dashboard/
-│
 ├── assets/
 │ ├── blakusnaku_study_dashboard_v1_0.png
 │ ├── blakusnaku_study_dashboard_v1_1.png
 │ └── blakusnaku_study_dashboard_v1_2.png
-│
 └── README.md
 ```
-
 ---
 
 ## 🔗 Study Dashboard Hub
@@ -145,10 +141,10 @@ blakusnaku-study-dashboard/
 ---
 
 ## 🏷️ Tags
-`Excel Foundations` · `SQL Integration` · `Python Data Pipeline` · `Power BI` · `Dashboard Design` · `Learning Analytics` · `v1.2`
+`Excel Foundations` · `SQL Integration` · `Python Data Pipeline` · `Power BI Visualization` · `Dashboard Design` · `Learning Analytics` · `v1.2`
 
 ---
 
 **Maintainer:** [@blakusnaku](https://github.com/blakusnaku)  
 **Version Tag:** `blakusnaku_study_dashboard v1.2`  
-**Last Updated:** October 11, 2025
+**Last Updated:** October 14, 2025  
