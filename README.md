@@ -63,13 +63,50 @@ v1.3 represents the move from “tracking progress” to **presenting data as a 
 
 ---
 
-## 🗓️ Version History
+## 🗓️ Version History 
+### 📅 October 6, 2025 — Initial Concept 
+**Theme:** Foundation Planning 
+- Designed the concept for tracking study blocks and performance metrics.
+- Selected **Excel** as the base tool for v1 development. 
+- Established the **100-day structured learning roadmap**.
 
-### 📅 October 6 – 11, 2025 → v1.2 Recap
-*Foundation to Integration*  
-- Established baseline metrics and footer standardization.  
-- Added web scraping and multi-tool integration.  
+--- 
 
+### 📅 October 7, 2025 — Core Layout & Metrics 
+**Theme:** Structure and Design 
+- Built KPI metrics (Tasks, Completion %, Hours, Schedule Variance).
+- Added **Daily Activity Tracker** and **16-week GitHub-style grid**.
+- Implemented **social branding icons** for GitHub, LinkedIn, and X.
+- Defined initial layout and color palette. 
+
+--- 
+
+### 📅 October 8, 2025 — Version 1.0
+**Theme:** Baseline Foundation - Completed the first stable release: v1.0. 
+- Added **Phase Progress Overview** and cleaned KPI alignment.
+- Locked this version as the **foundation baseline**.
+> _“Excel Foundations Complete — moving toward integration.”_
+ 
+---
+
+### 📅 October 10, 2025 — Version 1.1 
+**Theme:** Pipeline Integration 
+- Refined one-line KPIs for visual clarity.
+- Added **Tool Usage Pie Chart** and **Phase Progress Overview**.
+- Introduced **Power BI** to simulate real-world visualization workflows.
+- Created the first cross-tool project: *Day 13 — SQL → Python → Power BI Sales Dashboard*.
+- Updated version label → v1.1.
+
+--- 
+
+### 📅 October 11, 2025 — Version 1.2 
+**Theme:** Unified Data Ecosystem Version 1.2 
+marks the **integration milestone** — where all components (Excel, SQL, Python, Power BI) align under a consistent framework.
+- Added **web scraping module** to expand data acquisition scope.
+- Standardized typography and color hierarchy (Title 20 pt, KPI 36 pt).
+- Integrated footer tag: blakusnaku_study_dashboard v1.2.
+- Unified Power BI + Excel visual systems for future dashboards.
+  
 ---
 
 ### 📅 October 18, 2025 — Version 1.3 Release
