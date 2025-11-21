@@ -10,7 +10,7 @@
 
 ---
 
-![Study Dashboard v1.3 Preview](assets/blakusnaku_study_dashboard_v1_3.png)
+![Study Dashboard v1.3 Preview](assets/blakusnaku_study_dashboard_v1_3(2).PNG)
 
 ---
 
